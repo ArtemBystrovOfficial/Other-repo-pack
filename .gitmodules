@@ -1,0 +1,39 @@
+[submodule "FamilyCloudQt"]
+	path = FamilyCloudQt
+	url = git@github.com:other-repositories/FamilyCloudQt.git
+[submodule "DataBase_SSI"]
+	path = DataBase_SSI
+	url = git@github.com:other-repositories/DataBase_SSI.git
+[submodule "Qt-Time25"]
+	path = Qt-Time25
+	url = git@github.com:other-repositories/Qt-Time25.git
+[submodule "QtCookHunter"]
+	path = QtCookHunter
+	url = git@github.com:other-repositories/QtCookHunter.git
+[submodule "Chat_Server"]
+	path = Chat_Server
+	url = git@github.com:other-repositories/Chat_Server.git
+[submodule "Chat_Client"]
+	path = Chat_Client
+	url = git@github.com:other-repositories/Chat_Client.git
+[submodule "Double-Messenger"]
+	path = Double-Messenger
+	url = git@github.com:other-repositories/Double-Messenger.git
+[submodule "Double_Win"]
+	path = Double_Win
+	url = git@github.com:other-repositories/Double_Win.git
+[submodule "FPath-Linux"]
+	path = FPath-Linux
+	url = git@github.com:other-repositories/FPath-Linux.git
+[submodule "CleanDesk"]
+	path = CleanDesk
+	url = git@github.com:other-repositories/CleanDesk.git
+[submodule "FServer2.0"]
+	path = FServer2.0
+	url = git@github.com:other-repositories/FServer2.0.git
+[submodule "C-20"]
+	path = C-20
+	url = git@github.com:other-repositories/C-20.git
+[submodule "ChessBot"]
+	path = ChessBot
+	url = git@github.com:other-repositories/ChessBot.git
